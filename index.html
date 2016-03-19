@@ -125,6 +125,21 @@
   });
   </script>
 
+  <script>
+      $(window).scroll(function() {
+        if ($(this).scrollTop() > 500) { //use `this`, not `document`
+            $('.jvectormap-zoomin').css({
+                'display': 'none'
+            });
+        }
+        if ($(this).scrollTop() > 500) { //use `this`, not `document`
+            $('.jvectormap-zoomout').css({
+                'display': 'none'
+            });
+        }
+    });
+  </script>
+
 
 
   <script>
