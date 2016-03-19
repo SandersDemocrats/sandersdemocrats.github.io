@@ -1,0 +1,131 @@
+<head>
+    <title>Sander Democrats</title>
+    <meta name="description" content="We are committed to furthering the progressive movement. Find your local Sanders Democrat running for election by clicking on your state!">
+    <meta property="og:title" content="Join the revolution! Become a Sanders Democrat!" />
+    <meta property="og:image" content="assets/og.png" />
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"></link>
+    <link rel="stylesheet" href="http://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css"></link>
+    <link rel="stylesheet" href="css/main.css"></link>
+    <link rel="stylesheet" href="css/jquery-jvectormap-2.0.3.css" type="text/css" media="screen"/>
+    <link href='https://fonts.googleapis.com/css?family=Cedarville+Cursive' rel='stylesheet' type='text/css'>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
+    <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-50e215880416752d"></script>
+
+
+    <script src="js/subbscribe.min.js"></script>
+    <link rel="stylesheet" href="css/subbscribe.css" />
+
+    <script src="js/jquery-jvectormap-2.0.3.min.js"></script>
+    <script src="js/jquery-jvectormap-us-aea.js"></script>
+    <script src="js/jvectormap-variables.js"></script>
+
+    <link href='https://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
+</head>
+<body>
+
+  <div class="menu">
+    <ul>
+      <li>About Us</li>
+      <li>Become a Sanders-Democrat</li>
+      <li>Social Media</li>
+    </ul>
+  </div>
+
+  <div class="nav">
+    <a href="/" class="title">SandersDemocrats.org</a>
+    <p>Find your local Sanders Democrat running for election by clicking on your state!</p>
+  </div>
+
+<div class="mast">
+  <div class="row">
+      <div class="col-md-8 col-md-offset-2">
+        <div id="map" style="width: 100%; max-height: 100%"></div>
+      </div>
+  </div>
+      <div class="overlay-bg"></div>
+
+      <div class="magicbox">
+        <p class="close"><i class="ion ion-close"></i><span class="text">Close</span></p>
+        <div class="map-states-info" id="candidate">
+        </div>
+        <div class="footer">
+          <a href="mailto:team@sandersdemocrats.org">Did we miss someone? Send us your recommendations!</a>
+        </div>
+    </div>
+</div>
+<div class="about">
+  <h1>Who are "Sanders Democrats"?</h1>
+  <div class="container">
+    <p class="lead">A ‘Sanders Democrat’ is a candidate or political leader that is committed to furthering the progressive movement.</p>
+    <h2>1. Progressive Ideas</h2>
+    <p>These candidates promote progressive ideas such as free college tuition, Medicare for all, strengthening labor, criminal justice reform, progressive taxation, and increasing minimum wage while indexing it to inflation. They are affirmatively committed to addressing systematic injustice and increasing opportunity for all citizens. </p>
+
+    <h2>2. Grassroots Oriented</h2>
+    <p>A ‘Sanders Democrat’ rejects big money influence and seeks the influence of grassroots progressive activists for social justice. They know it is from the people that real change is born; not from lobbyists, special interests or establishment big wigs. </p>
+
+    <h2>3. Unafraid Leadership </h2>
+    <p>A ‘Sanders Democrat’ is a leader who is unafraid to stand against neo-conservative foreign policy and neo-liberal economic policy, regardless of political affiliation. </p>
+   </div>
+</div>
+
+<div class="cta">
+    <div class="lead2">
+      <div class="container">
+        <p>‘Sanders Democrats’ are the new agents of progressive change in our political system, and they need our support!</p>
+        <a href="https://secure.actblue.com/contribute/page/sandersdemocrats" target="_blank">Donate to all Sanders Democrat candidates</a>
+
+      </div>
+    </div>
+</div>
+
+<div class="social">
+  <p>Join over 40,000 members and follow us on<a href="https://berniesrevolution.tumblr.com/"> Tumblr</p>
+  <img src="assets/berniesrevolution.png"></img></a>
+</div>
+
+<p class="ads-header">Advertisement</p>
+<div class="ads">
+  <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+  <!-- Responsiver banner -->
+  <ins class="adsbygoogle"
+       style="display:block"
+       data-ad-client="ca-pub-7004039348107787"
+       data-ad-slot="9147249750"
+       data-ad-format="auto"></ins>
+  <script>
+  (adsbygoogle = window.adsbygoogle || []).push({});
+  </script>
+</div>
+
+
+<div class="footer">
+  <a class="madeby">brought to you by IdeaDrops<br><small>(a public benefit agency)</small></a>
+  <span>(not by the billionaires)</span>
+
+</div>
+  <script>
+  $(function(){
+    $("#menu-btn").click(function() {
+      $(".overlay-bg").show();
+      $(".overlay-bg").fadeOut(0);
+      $(".overlay-bg").fadeIn(300);
+      $(".menu").show();
+    });
+    $(".overlay-bg").click(function(){
+      $(".overlay-bg").fadeOut(300);
+      $(".menu").hide();
+    });
+  });
+  </script>
+
+
+
+  <script>
+    $('body').subbscribe({
+      list: "MailChimp",
+      url : "//macleodsawyer.us7.list-manage.com/subscribe/post?u=9ff67b3252cf627cdce2a8c42&amp;id=78157aaca6"
+  });
+  </script>
+</body>
