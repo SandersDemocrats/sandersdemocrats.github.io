@@ -33,7 +33,6 @@ body {
   width: 100%;
   text-align: center;
   color: #fff;
-  margin-bottom: -50px;
   z-index: 800;
   position: relative;
   background: linear-gradient(to right, #92fed3, #00C9FF);
