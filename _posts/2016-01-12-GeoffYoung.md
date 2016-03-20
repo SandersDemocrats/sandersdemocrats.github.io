@@ -2,7 +2,7 @@
 layout: default
 tag: KY
 title: Geoff Young
-image: http://www.gannett-cdn.com/-mm-/a2f59ff1d76723d91a572c7a25b391e512e14e48/c=0-0-534-400&r=x404&c=534x401/local/-/media/DesMoines/2015/04/07/B9316893865Z.1_20150407144453_000_G80AEK2PC.1-0.jpg
+image: https://scontent.fmci1-1.fna.fbcdn.net/hprofile-frc1/v/t1.0-1/c0.46.160.160/p160x160/10615396_10204389598520703_3135393090603438618_n.jpg?oh=943b3ccff14571be4a179b837a16977f&oe=57929D04
 district: 6
 party: Democrat
 seat: House
