@@ -1,7 +1,7 @@
 ---
 layout: default
 tag: NV
-title: Catherine Cortez Masto
+title: Catherine C. Masto
 image: https://res.cloudinary.com/crowdpac/image/upload/d_avatar_f/v1427475453/candidates/cand10361941.jpg
 party: Democrat
 seat: Senate
