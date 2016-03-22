@@ -8,4 +8,5 @@ party: Democrat
 seat: Senate
 website: http://www.pattymurray.com/about
 donate: https://secure.actblue.com/contribute/page/sdpattymurray
+published: false
 ---
