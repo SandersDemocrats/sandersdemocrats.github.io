@@ -7,5 +7,5 @@ district: 13
 party: Democrat
 seat: House
 website: http://www.johnpmcneil.com/
-donate: 
+donate: https://secure.actblue.com/contribute/page/sdjohnmcneil
 ---
