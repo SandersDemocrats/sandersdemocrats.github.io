@@ -2,7 +2,7 @@
 layout: default
 tag: CO
 title: Morgan Carroll
-image: http://elsemanario.net/wp-content/uploads/sites/25/2015/07/CO-1-Cit-E-Colo-1pic-615x440.jpg
+image: http://www.senmorgancarroll.com/images/254.jpg?1358718127
 district: 6
 party: Democrat
 seat: House
