@@ -7,5 +7,5 @@ district:
 party: Democrat
 seat: Senate
 website: http://www.stokes4congress.com/
-donate: 
+donate: https://secure.actblue.com/contribute/page/sdstevestokes
 ---
