@@ -7,5 +7,5 @@ district:
 party: Democrat
 seat: Senate
 website: http://gowithgriffin.org/
-donate: 
+donate: https://secure.actblue.com/contribute/page/sdkgriffin
 ---
