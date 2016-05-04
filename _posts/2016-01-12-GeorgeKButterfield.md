@@ -7,5 +7,5 @@ district: 1
 party: Democrat
 seat: House
 website: http://gkbutterfield.com/
-donate: 
+donate: https://secure.actblue.com/contribute/page/sdgeorgekbutterfield
 ---
