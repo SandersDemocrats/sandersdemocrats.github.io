@@ -6,4 +6,6 @@ image: http://www.theroot.com/content/dam/theroot/articles/politics/2015/03/miss
 district: 1
 party: Democrat
 seat: House
+website: http://www.maria2016.com/issues/
+donate: https://secure.actblue.com/contribute/page/sdmariachapellenadal
 ---
