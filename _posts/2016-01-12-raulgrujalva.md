@@ -1,6 +1,6 @@
 ---
 layout: default
-tag: az
+tag: AZ
 title: Raul Grijalva
 image: https://upload.wikimedia.org/wikipedia/commons/5/53/Ra%C3%BAl_Grijalva.jpg
 district: 3
