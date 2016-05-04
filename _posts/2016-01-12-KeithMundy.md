@@ -2,10 +2,10 @@
 layout: default
 tag: OH
 title: Keith Mundy
-image: https://pbs.twimg.com/profile_images/686320983842656256/A_Gt-622.jpg
+image: http://static1.teapartycheer.com/wp-content/uploads/2016/01/OH16.11-Keith-Mundy.jpg?d4962a
 district: 16
 party: Democrat
 seat: House
-website: http://www.keithellison.org/
-donate: https://secure.actblue.com/contribute/page/sdkeithellison
+website: http://www.mundy2016.com/
+donate: https://secure.actblue.com/contribute/page/sdkeithmundy
 ---
