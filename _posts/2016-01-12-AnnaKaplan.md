@@ -2,7 +2,7 @@
 layout: default
 tag: NY
 title: Anna Kaplan
-image: http://annamkaplan.com/uploads/3/5/8/4/3584369/8467867.jpg
+image: https://annakaplanforcongress.com/wp-content/uploads/anna-kaplan-340x500-2.jpg
 district: 3
 party: Democrat
 seat: House
