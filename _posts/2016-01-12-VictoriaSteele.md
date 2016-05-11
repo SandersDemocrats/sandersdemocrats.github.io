@@ -1,6 +1,6 @@
 ---
 layout: default
-tag: az
+tag: AZ
 title: Victoria Steele
 image: https://pbs.twimg.com/profile_images/618452141812768768/DAWiiDNg.jpg
 district: 2
