@@ -6,6 +6,6 @@ image: https://api.ballotpedia.org/v3/thumbnail/200/300/crop/best/Alexandria_Oca
 district: NY-14
 party: Democrat
 seat: U.S. House
-website: https://keithellison.org
+website: https://ocasio2018.com
 donate: https://secure.actblue.com/donate/sdalexandriaocasiocortez
 ---
